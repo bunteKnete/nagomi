@@ -1,0 +1,81 @@
+
+body {
+	background: rgba(40, 40, 40, 1);
+}
+
+div#Page {
+	background: rgba(120, 120, 120, 1);
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+}
+
+div#Header {
+	width: 100%;
+	height: 80px;
+	text-align: center;
+}
+
+div#Header h1 {
+	padding-top: 20px;
+}
+
+div#Kanji {
+	font-family: 'MS Mincho', 'PMinLiU', 'SimSun', serif;
+	background: rgba(110,110,110,1);
+	text-align: center;
+	width: 80px;
+	font-size: 3em;
+	margin-left: 20px;
+}
+
+div#NavBar {
+	position: absolute;
+	top: 80px;
+	left: 100px;
+	background: rgba(115,115,115,1);
+}
+
+div#NavBar a {
+	text-decoration: none;
+	color: black;
+}
+
+div#NavBar a:hover {
+	color: rgba(30, 30, 30, 1);
+}
+
+div#NavBar ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+div#NavBar li {
+	margin: 5px;
+	font-weight: bold;
+	font-size: 1.2em;
+}	
+
+div#Footer {
+	width: 100%;
+	margin-top: 20px;
+	background: rgba(90,90,90,1);
+	text-align: center;
+}
+
+div#Footer a {
+	text-decoration: none;
+	color: black;
+}
+
+div#Footer a:hover {
+	color: rgba(30, 30, 30, 1);
+}
+
+div#Content {
+	padding-right: 20px;
+	position: absolute;
+	top: 100px;
+	left: 250px;
+}

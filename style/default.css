@@ -21,7 +21,7 @@ div#Header h1 {
 }
 
 div#Kanji {
-	font-family: 'MS Mincho', 'PMinLiU', 'SimSun', serif;
+	font-family: 'MS Mincho', 'PMinLiU', 'SimSun', 'TakaoMincho',  serif;
 	background: rgba(110,110,110,1);
 	text-align: center;
 	width: 80px;

@@ -10,7 +10,7 @@ echo ' <h2>Impressum</h2>
      Uhlandstr. 22<br>
      14482 Potsdam<br>
      E-Mail: info@nagomi-dojo-potsdam.de<br>
-     Tel: 0175-2841246
+     Tel: 0175-2841246 (Reyko)
      </p>
  ';
 
